@@ -1,0 +1,16 @@
+com\mycompany\prestamosbiblioteca\ListaDeLibros.class
+com\mycompany\prestamosbiblioteca\Prestamo.class
+com\mycompany\prestamosbiblioteca\ModeloLibros.class
+com\mycompany\prestamosbiblioteca\ListaDeUsuarios.class
+com\mycompany\prestamosbiblioteca\BDPrestamoMYSQL.class
+com\mycompany\prestamosbiblioteca\Libro.class
+com\mycompany\prestamosbiblioteca\ModeloUsuarios.class
+com\mycompany\prestamosbiblioteca\Main.class
+com\mycompany\prestamosbiblioteca\Usuario.class
+com\mycompany\prestamosbiblioteca\MYSQL.class
+com\mycompany\prestamosbiblioteca\ListaDePrestamos.class
+com\mycompany\prestamosbiblioteca\ModeloPrestamos.class
+com\mycompany\prestamosbiblioteca\BDUsuarioMYSQL.class
+com\mycompany\prestamosbiblioteca\BDLibroMYSQL.class
+com\mycompany\prestamosbiblioteca\JakartaRestConfiguration.class
+com\mycompany\prestamosbiblioteca\resources\JakartaEE10Resource.class
